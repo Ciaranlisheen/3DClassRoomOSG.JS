@@ -1,0 +1,35 @@
+body {
+    /*width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;*/
+}
+
+
+
+canvas {
+    width:100%;
+    height:100%;
+}
+
+.controlPanel {
+    padding: 5px;
+
+    margin-top:10px;
+    flex:none;
+    height:150px;
+    display:flex
+}
+
+
+
+.controls {
+    flex:1
+}
+
+textarea {
+    width:300px;
+    font: normal 10px Verdana, Arial, sans-serif;
+}
+
+

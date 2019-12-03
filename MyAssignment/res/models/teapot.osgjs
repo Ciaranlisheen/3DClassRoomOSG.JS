@@ -1,0 +1,1375 @@
+{
+  "Generator": "OpenSceneGraph 3.5.1", 
+  "Version": 7, 
+  "osg.Node": {
+    "Children": [ {
+      "osg.Node": {
+        "UniqueID": 0, 
+        "Name": "teapot.obj", 
+        "Children": [ {
+          "osg.Node": {
+            "UniqueID": 1, 
+            "Name": "Object001", 
+            "Children": [ {
+              "osg.Geometry": {
+                "UniqueID": 2, 
+                "PrimitiveSetList": [ {
+                  "DrawElementsUShort": {
+                    "UniqueID": 5, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 1, 2, 0, 3, 4, 5, 6, 7, 8, 9, 80, 81, 82, 83, 84, 85 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 6, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 2, 76, 3, 75, 5, 77, 7, 78, 9, 79, 81, 140, 83, 141, 85, 142 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 7, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 76, 71, 75, 70, 77, 72, 78, 73, 79, 74, 140, 136, 141, 137, 142, 138 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 8, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 71, 66, 70, 65, 72, 67, 73, 68, 74, 69, 136, 132, 137, 133, 138, 134 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 9, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 66, 61, 65, 60, 67, 62, 68, 63, 69, 64, 132, 128, 133, 129, 134, 130 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 10, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 61, 56, 60, 55, 62, 57, 63, 58, 64, 59, 128, 124, 129, 125, 130, 126 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 11, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 56, 51, 55, 50, 57, 52, 58, 53, 59, 54, 124, 120, 125, 121, 126, 122 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 12, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 51, 46, 50, 45, 52, 47, 53, 48, 54, 49, 120, 116, 121, 117, 122, 118 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 13, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 46, 41, 45, 40, 47, 42, 48, 43, 49, 44, 116, 112, 117, 113, 118, 114 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 14, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 41, 36, 40, 35, 42, 37, 43, 38, 44, 39, 112, 108, 113, 109, 114, 110 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 15, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 36, 31, 35, 30, 37, 32, 38, 33, 39, 34, 108, 104, 109, 105, 110, 106 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 16, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 31, 26, 30, 25, 32, 27, 33, 28, 34, 29, 104, 100, 105, 101, 106, 102 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 17, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 26, 21, 25, 20, 27, 22, 28, 23, 29, 24, 100, 96, 101, 97, 102, 98 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 18, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 21, 16, 20, 15, 22, 17, 23, 18, 24, 19, 96, 92, 97, 93, 98, 94 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 19, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 16, 11, 15, 10, 17, 12, 18, 13, 19, 14, 92, 88, 93, 89, 94, 90 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 20, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 11, 1, 10, 0, 12, 4, 13, 6, 14, 8, 88, 80, 89, 82, 90, 84 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 21, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 90, 84, 91, 86, 152, 144, 153, 146, 154, 148, 155, 150, 215, 208, 216, 210 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 22, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 84, 85, 86, 87, 144, 145, 146, 147, 148, 149, 150, 151, 208, 209, 210, 211 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 23, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 85, 142, 87, 143, 145, 204, 147, 205, 149, 206, 151, 207, 209, 254, 211, 255 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 24, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 142, 138, 143, 139, 204, 200, 205, 201, 206, 202, 207, 203, 254, 251, 255, 252 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 25, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 138, 134, 139, 135, 200, 196, 201, 197, 202, 198, 203, 199, 251, 248, 252, 249 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 26, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 134, 130, 135, 131, 196, 192, 197, 193, 198, 194, 199, 195, 248, 245, 249, 246 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 27, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 130, 126, 131, 127, 192, 188, 193, 189, 194, 190, 195, 191, 245, 242, 246, 243 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 28, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 126, 122, 127, 123, 188, 184, 189, 185, 190, 186, 191, 187, 242, 239, 243, 240 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 29, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 122, 118, 123, 119, 184, 180, 185, 181, 186, 182, 187, 183, 239, 236, 240, 237 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 30, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 118, 114, 119, 115, 180, 176, 181, 177, 182, 178, 183, 179, 236, 233, 237, 234 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 31, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 114, 110, 115, 111, 176, 172, 177, 173, 178, 174, 179, 175, 233, 230, 234, 231 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 32, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 110, 106, 111, 107, 172, 168, 173, 169, 174, 170, 175, 171, 230, 227, 231, 228 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 33, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 106, 102, 107, 103, 168, 164, 169, 165, 170, 166, 171, 167, 227, 224, 228, 225 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 34, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 102, 98, 103, 99, 164, 160, 165, 161, 166, 162, 167, 163, 224, 221, 225, 222 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 35, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 98, 94, 99, 95, 160, 156, 161, 157, 162, 158, 163, 159, 221, 218, 222, 219 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 36, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 94, 90, 95, 91, 156, 152, 157, 153, 158, 154, 159, 155, 218, 215, 219, 216 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 37, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 219, 216, 220, 217, 214, 214, 253, 256, 252, 255 ],
+                          "Size": 10
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 38, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 214, 250, 214, 247, 214, 244, 214, 241, 214, 238, 214, 235, 214, 232, 214, 229 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 39, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 250, 246, 247, 243, 244, 240, 241, 237, 238, 234, 235, 231, 232, 228, 229, 225 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 40, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 225, 226, 229, 214, 214, 212, 213, 211, 255 ],
+                          "Size": 9
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 41, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 213, 256, 214, 214, 223, 226, 222, 225 ],
+                          "Size": 8
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 42, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 222, 219, 223, 220, 214, 214, 226 ],
+                          "Size": 7
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 43, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 214, 217, 212, 210, 211 ],
+                          "Size": 5
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 44, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 214, 253, 250, 249, 246 ],
+                          "Size": 5
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 45, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 383, 387, 382, 386, 381, 385, 380, 384, 347, 352, 346, 351, 345, 350, 343, 348 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 46, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 387, 391, 386, 390, 385, 389, 384, 388, 352, 357, 351, 356, 350, 355, 348, 353 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 47, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 391, 395, 390, 394, 389, 393, 388, 392, 357, 362, 356, 361, 355, 360, 353, 358 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 48, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 395, 399, 394, 398, 393, 397, 392, 396, 362, 367, 361, 366, 360, 365, 358, 363 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 49, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 399, 375, 398, 373, 397, 371, 396, 369, 367, 337, 366, 335, 365, 333, 363, 331 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 50, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 375, 374, 373, 372, 371, 370, 369, 368, 337, 336, 335, 334, 333, 332, 331, 328 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 51, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 374, 379, 372, 378, 370, 377, 368, 376, 336, 342, 334, 341, 332, 340, 328, 338 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 52, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 379, 383, 378, 382, 377, 381, 376, 380, 342, 347, 341, 346, 340, 345, 338, 343 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 53, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 343, 339, 338, 329, 328, 330, 331, 364, 363, 359, 358, 354, 353, 349, 348, 344 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 54, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 339, 343, 344, 348 ],
+                          "Size": 4
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 55, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 520, 524, 519, 523, 518, 522, 517, 521, 456, 460, 455, 459, 454, 458, 453, 457 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 56, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 524, 528, 523, 527, 522, 526, 521, 525, 460, 464, 459, 463, 458, 462, 457, 461 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 57, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 528, 472, 527, 470, 526, 468, 525, 466, 464, 408, 463, 406, 462, 404, 461, 402 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 58, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 472, 471, 470, 469, 468, 467, 466, 465, 408, 407, 406, 405, 404, 403, 402, 400 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 59, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 471, 476, 469, 475, 467, 474, 465, 473, 407, 412, 405, 411, 403, 410, 400, 409 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 60, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 476, 480, 475, 479, 474, 478, 473, 477, 412, 416, 411, 415, 410, 414, 409, 413 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 61, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 480, 484, 479, 483, 478, 482, 477, 481, 416, 420, 415, 419, 414, 418, 413, 417 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 62, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 484, 488, 483, 487, 482, 486, 481, 485, 420, 424, 419, 423, 418, 422, 417, 421 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 63, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 488, 492, 487, 491, 486, 490, 485, 489, 424, 428, 423, 427, 422, 426, 421, 425 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 64, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 492, 496, 491, 495, 490, 494, 489, 493, 428, 432, 427, 431, 426, 430, 425, 429 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 65, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 496, 500, 495, 499, 494, 498, 493, 497, 432, 436, 431, 435, 430, 434, 429, 433 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 66, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 500, 504, 499, 503, 498, 502, 497, 501, 436, 440, 435, 439, 434, 438, 433, 437 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 67, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 504, 508, 503, 507, 502, 506, 501, 505, 440, 444, 439, 443, 438, 442, 437, 441 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 68, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 508, 512, 507, 511, 506, 510, 505, 509, 444, 448, 443, 447, 442, 446, 441, 445 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 69, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 512, 516, 511, 515, 510, 514, 509, 513, 448, 452, 447, 451, 446, 450, 445, 449 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 70, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 516, 520, 515, 519, 514, 518, 513, 517, 452, 456, 451, 455, 450, 454, 449, 453 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 71, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 449, 453, 401, 457, 461 ],
+                          "Size": 5
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 72, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 401, 461, 401, 402, 401, 400, 401, 409, 401, 413, 401, 417, 401, 421, 425 ],
+                          "Size": 15
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 73, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 401, 425, 401, 429, 401, 433, 401, 437, 441 ],
+                          "Size": 9
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 74, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 401, 441, 401, 445, 401, 449, 401 ],
+                          "Size": 7
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 75, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 437, 401, 401, 421 ],
+                          "Size": 4
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 76, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 453, 401, 401, 457 ],
+                          "Size": 4
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 77, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 268, 258, 267, 257, 269, 261, 270, 263, 271, 265, 304, 297, 305, 299, 306, 301 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 78, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 258, 259, 257, 260, 261, 262, 263, 264, 265, 266, 297, 298, 299, 300, 301, 302 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 79, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 259, 293, 260, 292, 262, 294, 264, 295, 266, 296, 298, 324, 300, 325, 302, 326 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 80, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 293, 288, 292, 287, 294, 289, 295, 290, 296, 291, 324, 320, 325, 321, 326, 322 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 81, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 288, 283, 287, 282, 289, 284, 290, 285, 291, 286, 320, 316, 321, 317, 322, 318 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 82, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 283, 278, 282, 277, 284, 279, 285, 280, 286, 281, 316, 312, 317, 313, 318, 314 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 83, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 278, 273, 277, 272, 279, 274, 280, 275, 281, 276, 312, 308, 313, 309, 314, 310 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 84, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 273, 268, 272, 267, 274, 269, 275, 270, 276, 271, 308, 304, 309, 305, 310, 306 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 85, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 306, 311, 310, 315, 314, 319, 318, 323, 322, 327, 326, 115, 302, 303, 301, 307 ],
+                          "Size": 16
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 86, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 311, 306, 307, 301 ],
+                          "Size": 4
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLE_STRIP"
+                  }
+                },
+                {
+                  "DrawElementsUShort": {
+                    "UniqueID": 87, 
+                    "Indices": {
+                      "Array": { 
+                        "Uint16Array": { 
+                          "Elements": [ 213, 214, 214, 217, 216, 210, 253, 252, 249, 255, 256, 213 ],
+                          "Size": 12
+                        }
+                      }, 
+                      "ItemSize": 1, 
+                      "Type": "ELEMENT_ARRAY_BUFFER"
+                    }, 
+                    "Mode": "TRIANGLES"
+                  }
+                } ], 
+                "VertexAttributeList": {
+                  "Normal": {
+                    "UniqueID": 4, 
+                    "Array": { 
+                      "Float32Array": { 
+                        "Elements": [ 0.937493, -0.346812, -0.0287908, 0.86865, -0.424136, 0.256038, 0.964825, -0.0629083, 0.255255, 0.998942, 0.0331392, -0.0318923, 0.0179998, 0.0442744, -0.998857, -0.00580727, 0.0471931, -0.998869, -0.64969, 0.292705, -0.701589, -0.714273, 0.0249637, -0.699422, -0.808791, 0.37992, -0.448908, -0.893149, 0.045078, -0.447497, 0.729865, -0.682841, -0.0320177, 0.637426, -0.726667, 0.256209, 0.0292585, 0.0374365, -0.998871, -0.486381, 0.521733, -0.700877, -0.599074, 0.662986, -0.448954, 0.408864, -0.911919, -0.0351377, 0.306286, -0.916982, 0.255603, 0.0396753, 0.028605, -0.998803, -0.246931, 0.671161, -0.698977, -0.295669, 0.843833, -0.447802, 0.0328021, -0.999151, -0.0249208, -0.0606274, -0.960407, 0.271924, 0.0472429, 0.00594039, -0.998866, 0.0249601, 0.714417, -0.699275, 0.0450779, 0.893149, -0.447497, -0.337512, -0.938186, 0.0767619, -0.401903, -0.841488, 0.361071, 0.0471294, -0.0229329, -0.998626, 0.294255, 0.653868, -0.697045, 0.379946, 0.808897, -0.448694, -0.678892, -0.716408, 0.160828, -0.703122, -0.596392, 0.387217, 0.0430614, -0.0332779, -0.998518, 0.529306, 0.493211, -0.690346, 0.663185, 0.599251, -0.448425, -0.915964, -0.391456, 0.0881555, -0.908631, -0.280369, 0.309488, 0.0313291, -0.0413667, -0.998653, 0.678103, 0.248975, -0.691511, 0.844028, 0.29571, -0.447406, -0.999682, -0.0240899, -0.00749551, -0.964351, 0.0703165, 0.255114, 0.00591499, -0.0469017, -0.998882, 0.715937, -0.0252679, -0.697708, 0.893198, -0.045096, -0.447397, -0.937491, 0.346814, -0.0288086, -0.868656, 0.424142, 0.256008, -0.0180004, -0.0442755, -0.998857, 0.649688, -0.292703, -0.701592, 0.808793, -0.379918, -0.448905, -0.729863, 0.682842, -0.032028, -0.637426, 0.726667, 0.256209, -0.0292567, -0.0374361, -0.998871, 0.48638, -0.521732, -0.700879, 0.599072, -0.662985, -0.448959, -0.408864, 0.911918, -0.035147, -0.306282, 0.916983, 0.255603, -0.0396753, -0.0286041, -0.998803, 0.246932, -0.671161, -0.698976, 0.295669, -0.843832, -0.447803, -0.0331392, 0.998942, -0.0318926, 0.0629083, 0.964825, 0.255255, -0.0471933, -0.00580708, -0.998869, -0.0249636, -0.714271, -0.699424, -0.045078, -0.893149, -0.447496, 0.346812, 0.937492, -0.0287974, 0.424135, 0.868648, 0.256046, -0.0442754, 0.0180004, -0.998857, -0.292705, -0.649688, -0.701591, -0.379919, -0.808791, -0.448907, 0.682841, 0.729865, -0.0320181, 0.726662, 0.637424, 0.256229, -0.0374365, 0.029257, -0.998871, -0.521734, -0.486383, -0.700875, -0.662983, -0.599074, -0.448959, 0.911918, 0.408864, -0.0351405, 0.916983, 0.306282, 0.255603, -0.0286044, 0.0396755, -0.998803, -0.671163, -0.246933, -0.698973, -0.843831, -0.295669, -0.447804, -0.844512, 0.351094, -0.404391, -0.915005, 0.00562195, -0.403402, -0.86939, 0.358901, -0.339634, -0.940934, 0.00347289, -0.338573, -0.904535, 0.370253, -0.211492, -0.977613, 0.000727603, -0.210412, -0.926736, 0.372026, 0.0525123, -0.998539, -0.0059476, 0.0537045, -0.642587, 0.650562, -0.404785, -0.662565, 0.667491, -0.339798, -0.690636, 0.691666, -0.211235, -0.710285, 0.701845, 0.0539245, -0.340613, 0.848955, -0.404051, -0.352484, 0.872273, -0.338963, -0.368986, 0.905329, -0.210306, -0.383121, 0.92205, 0.0551538, 0.00562194, 0.915005, -0.403402, 0.00347295, 0.940934, -0.338573, 0.00072691, 0.977612, -0.210413, -0.00594698, 0.998539, 0.0537009, 0.351094, 0.844512, -0.404392, 0.3589, 0.86939, -0.339635, 0.370252, 0.904535, -0.211494, 0.372025, 0.926736, 0.0525128, 0.650561, 0.642589, -0.404783, 0.667492, 0.662564, -0.339799, 0.691667, 0.690634, -0.211236, 0.701845, 0.710286, 0.0539205, 0.848956, 0.340613, -0.40405, 0.872273, 0.352486, -0.338959, 0.905329, 0.368986, -0.210307, 0.922051, 0.38312, 0.055149, 0.915005, -0.00562359, -0.403404, 0.940934, -0.00347291, -0.338573, 0.977613, -0.000726112, -0.21041, 0.998141, -0.00436313, -0.0607831, 0.844514, -0.351092, -0.404388, 0.869389, -0.358902, -0.339636, 0.904535, -0.370253, -0.211493, 0.926736, -0.372025, 0.0525078, 0.642589, -0.650561, -0.404782, 0.662567, -0.667491, -0.339796, 0.690635, -0.691667, -0.211234, 0.710284, -0.701847, 0.0539181, 0.340612, -0.848955, -0.404052, 0.352485, -0.872273, -0.338961, 0.368989, -0.905329, -0.210302, 0.383122, -0.92205, 0.0551523, -0.00562196, -0.915005, -0.403403, -0.00347289, -0.940934, -0.338573, -0.00072763, -0.977613, -0.210411, 0.00594693, -0.998539, 0.0537012, -0.351094, -0.844512, -0.404391, -0.358901, -0.86939, -0.339635, -0.370254, -0.904535, -0.211492, -0.372026, -0.926736, 0.0525127, -0.650561, -0.642589, -0.404784, -0.667491, -0.662566, -0.339797, -0.691667, -0.690636, -0.211232, -0.701846, -0.710285, 0.0539195, -0.848955, -0.340613, -0.404051, -0.872273, -0.352484, -0.338962, -0.905329, -0.368989, -0.210302, -0.92205, -0.383122, 0.0551543, -0.83979, 0.329244, 0.431685, -0.901695, -0.0126072, 0.432188, -0.683423, 0.264018, 0.680608, -0.732793, -0.0138656, 0.680311, -0.63723, 0.243085, 0.731332, -0.682866, -0.0157864, 0.730373, -0.727249, 0.28274, 0.625434, -0.781201, -0.0131254, 0.624141, -0.646045, 0.628171, 0.433621, -0.527001, 0.507364, 0.681801, -0.492979, 0.470627, 0.731767, -0.560809, 0.542215, 0.625697, -0.352377, 0.828936, 0.434391, -0.289573, 0.671808, 0.681779, -0.272751, 0.625425, 0.731062, -0.307548, 0.717764, 0.624683, -0.0126064, 0.901697, 0.432185, -0.0138668, 0.732792, 0.680311, -0.0157863, 0.682861, 0.730378, -0.0131239, 0.781204, 0.624138, 0.329244, 0.839791, 0.431683, 0.26402, 0.683425, 0.680605, 0.243082, 0.637226, 0.731337, 0.282736, 0.727245, 0.62544, 0.628169, 0.646045, 0.433623, 0.507364, 0.527002, 0.6818, 0.470628, 0.492979, 0.731766, 0.542212, 0.560807, 0.625701, 0.828937, 0.352376, 0.43439, 0.671806, 0.289572, 0.68178, 0.625424, 0.272751, 0.731061, 0.717765, 0.307547, 0.624682, 0.901697, 0.0126064, 0.432185, 0.732793, 0.0138656, 0.68031, 0.682863, 0.0157868, 0.730376, 0.781197, 0.0131247, 0.624147, 0.83979, -0.329243, 0.431685, 0.683423, -0.264018, 0.680609, 0.637232, -0.243086, 0.73133, 0.727239, -0.282734, 0.625447, 0.646044, -0.628171, 0.433622, 0.526999, -0.507362, 0.681803, 0.492981, -0.470629, 0.731764, 0.560811, -0.542218, 0.625692, 0.352376, -0.828937, 0.43439, 0.289572, -0.671806, 0.681781, 0.272753, -0.625426, 0.73106, 0.307551, -0.717772, 0.624672, 0.0126072, -0.901695, 0.432188, 0.0138663, -0.732791, 0.680313, 0.0157864, -0.682866, 0.730373, 0.0131249, -0.781206, 0.624135, -0.329245, -0.839789, 0.431685, -0.264019, -0.683422, 0.680609, -0.243086, -0.637232, 0.731331, -0.282739, -0.727247, 0.625436, -0.628169, -0.646045, 0.433624, -0.507362, -0.527, 0.681802, -0.47063, -0.492981, 0.731763, -0.542216, -0.56081, 0.625694, -0.828937, -0.352376, 0.43439, -0.671805, -0.289572, 0.681782, -0.625427, -0.272753, 0.731059, -0.717769, -0.30755, 0.624676, -0.408101, 0.162254, 0.898403, -0.438124, -0.00405059, 0.898905, -0.127196, 0.0479799, 0.990716, -0.135649, -0.00363746, 0.99075, -0.0427047, 0.0140078, 0.998989, -0.0447562, -0.00316205, 0.998993, -2.74879e-10, -2.06159e-10, 1, -0.311646, 0.305919, 0.899606, -0.0981049, 0.092964, 0.990824, -0.033753, 0.0292844, 0.999001, -0.168412, 0.401529, 0.900229, -0.0543548, 0.123367, 0.990871, -0.0197831, 0.0399495, 0.999006, -0.00405019, 0.438128, 0.898904, -0.00363778, 0.135649, 0.99075, -0.00316216, 0.0447561, 0.998993, 0.162254, 0.408103, 0.898402, 0.0479803, 0.127196, 0.990716, 0.0140079, 0.0427047, 0.99899, 0.305917, 0.311646, 0.899606, 0.0929636, 0.0981047, 0.990825, 0.0292843, 0.033753, 0.999001, 0.401525, 0.16841, 0.900231, 0.123367, 0.0543549, 0.990871, 0.0399495, 0.0197832, 0.999006, 0.438126, 0.00404969, 0.898904, 0.135649, 0.00363765, 0.99075, 0.0447562, 0.00316216, 0.998993, 0.4081, -0.162253, 0.898403, 0.127196, -0.0479803, 0.990716, 0.0427047, -0.014008, 0.998989, 0.311644, -0.305915, 0.899608, 0.098105, -0.0929639, 0.990824, 0.0337529, -0.0292843, 0.999001, 0.168411, -0.401526, 0.90023, 0.0543547, -0.123367, 0.990871, 0.0197831, -0.0399496, 0.999006, 0.00405058, -0.438124, 0.898905, 0.00363764, -0.135648, 0.99075, 0.00316206, -0.0447562, 0.998993, -0.162256, -0.408104, 0.898401, -0.0479798, -0.127195, 0.990717, -0.0140078, -0.0427047, 0.998989, -0.305917, -0.311645, 0.899606, -0.0929643, -0.0981051, 0.990824, -0.0292843, -0.0337529, 0.999001, -0.401527, -0.168411, 0.90023, -0.123367, -0.054355, 0.990871, -0.0399495, -0.0197832, 0.999006, -0.0303858, 0.436462, 0.899209, -0.00696336, 0.5667, 0.823895, -0.00773326, 0.0712309, 0.99743, -0.035676, -0.0124812, 0.999285, -0.145122, 0.441931, 0.885233, -0.166537, -0.0173542, 0.985883, -0.477775, 0.522519, 0.70619, -0.578442, -0.0133591, 0.815614, -0.795863, 0.595188, 0.111144, -0.995159, 0.0127235, 0.0974487, 0.0104602, 0.999874, 0.0119683, 0.00262262, 0.967295, -0.253639, 0.0330066, 0.99892, 0.0327088, 0.0690225, 0.995992, 0.0568769, 0.061807, 0.996644, 0.0536655, 0.05106, 0.455446, -0.888798, 0.00985416, 0.346473, -0.938008, 0.227646, 0.482218, -0.845957, 0.642026, 0.54087, -0.54338, 0.845267, 0.534344, 0.000465471, 0.0493505, 0.0117439, -0.998712, 0.0105705, -0.0664003, -0.997737, 0.233891, 0.0137519, -0.972166, 0.719233, 0.00435368, -0.694755, 0.998822, -0.00723778, -0.0479903, 0.0360061, -0.421284, -0.906214, 0.00850239, -0.548086, -0.836379, 0.179221, -0.436859, -0.881495, 0.557899, -0.520509, -0.646388, 0.826167, -0.556655, -0.087079, -0.0054791, -0.997847, -0.0653571, -0.00179319, -0.975717, 0.219027, -0.0110469, -0.996894, -0.0779831, -0.0118163, -0.996379, -0.0841937, 0.0062821, -0.998638, -0.0517962, -0.0365617, -0.470873, 0.881443, -0.00740283, -0.352921, 0.935624, -0.166245, -0.486331, 0.857814, -0.534702, -0.553665, 0.638396, -0.826491, -0.561816, 0.0357168, -0.776036, 0.567529, -0.275098, -0.939281, 0.00548042, -0.343104, -0.699162, 0.519217, -0.491514, -0.817127, -0.00689462, -0.576417, -0.566804, 0.470559, -0.676245, -0.636006, -0.00515555, -0.771667, -0.499276, 0.334946, -0.799084, 0.0249045, 0.998603, 0.046612, 0.00800771, 0.998499, 0.054177, 0.000996436, 0.998124, 0.0612201, -0.116646, 0.974993, -0.189162, 0.76946, 0.533289, 0.351473, 0.63463, 0.500481, 0.588866, 0.492324, 0.451345, 0.744248, 0.409259, 0.547137, 0.73017, 0.923175, -0.000882264, 0.384379, 0.745327, 0.00393617, 0.666687, 0.56047, 0.00133542, 0.828174, 0.480118, 0.0715219, 0.874284, 0.787813, -0.543112, 0.290482, 0.663811, -0.507003, 0.54982, 0.516383, -0.46083, 0.721792, 0.453828, -0.341798, 0.82293, 0.0168794, -0.99959, -0.02312, 0.0142048, -0.999806, -0.0136262, 0.0194352, -0.999791, -0.00641051, 0.125812, -0.965886, 0.226354, -0.780018, -0.547044, -0.303834, -0.684761, -0.514137, -0.516493, -0.539452, -0.46529, -0.701781, -0.430697, -0.560362, -0.707456, 0.313395, 0.565769, -0.762685, 0.144058, 0.729621, -0.668506, 0.230676, 0.0996141, -0.967918, 0.464017, -0.0498396, -0.884423, 0.668319, 0.545937, -0.505274, 0.862574, -0.0172672, -0.505635, 0.653252, 0.626518, -0.425131, 0.881689, 0.0113777, -0.471693, 0.551157, 0.634108, -0.54234, 0.746848, -0.0883419, -0.659101, -0.156002, 0.981874, -0.107638, -0.130828, 0.981238, 0.141618, -0.162092, 0.970786, -0.176921, -0.029823, 0.991763, -0.124568, 0.0609094, 0.982013, -0.178718, -0.566498, 0.6009, 0.563913, -0.366337, 0.493503, 0.78883, -0.809308, 0.523935, 0.265543, -0.683681, 0.631831, 0.365199, -0.449825, 0.779891, 0.435232, -0.635512, 0.039577, 0.771076, -0.409346, -0.0905214, 0.907878, -0.920552, 0.0114301, 0.390453, -0.863518, -0.00469139, 0.504296, -0.657694, 0.0796219, 0.749065, -0.531865, -0.525851, 0.663778, -0.3152, -0.690604, 0.650934, -0.823735, -0.478762, 0.303722, -0.733776, -0.600306, 0.318127, -0.553106, -0.616045, 0.560859, -0.13351, -0.989997, 0.0456081, -0.0405921, -0.990569, -0.130863, -0.246354, -0.965071, -0.0891484, -0.140002, -0.981035, -0.134054, -0.0939844, -0.994459, -0.0470906, 0.347431, -0.664188, -0.661926, 0.185753, -0.52454, -0.830875, 0.643417, -0.613665, -0.457635, 0.600463, -0.662168, -0.448305, 0.410288, -0.765467, -0.495706, 0.305938, 0.451575, -0.838142, 0.402059, -0.0503681, -0.914227, 0.0698737, -0.0498412, -0.99631, 0.0300442, -0.102337, -0.994296, -0.401559, -0.915283, -0.031741, -0.91083, -0.0832181, 0.404307, -0.515345, -0.702677, 0.490575, -0.683223, 0.208049, 0.699945, 0.0364281, 0.853835, -0.519268, 0.0644724, 0.0522261, -0.996552, 0.04272, -0.827014, -0.560556, -0.0612314, -0.988943, -0.135066, -0.412064, 0.82077, 0.395651, 0.0211028, 0.152288, -0.988111, 0.262938, -0.409886, -0.873417, 0.264775, -0.64791, -0.714218, -0.527064, 0.0543402, 0.848086, -0.110754, 0.152076, -0.982144, 0.317726, 0.0341507, -0.947567, 0.369733, -0.100036, -0.923737, -0.461506, -0.691712, 0.555469, -0.115785, -0.0661576, -0.991069, 0.242086, 0.483752, -0.841058, 0.327503, 0.430383, -0.841137, -0.03119, -0.910578, -0.412159, -0.014185, -0.104832, -0.994389, -0.00111745, 0.851948, -0.523625, 0.0734662, 0.931486, -0.356282, 0.264877, -0.53839, -0.799986, 0.0047044, -0.0867188, -0.996222, -0.478324, 0.877226, -0.0410061, -0.337854, 0.894341, 0.293271, -0.521938, 0.243824, -0.817393, -2.47761e-09, -2.47761e-09, -1, -0.579205, 0.0286901, -0.814677, -0.82881, 0.327944, 0.453351, -0.891064, -0.00831696, 0.453802, -0.838517, 0.319392, 0.441451, -0.898903, -0.0201337, 0.437686, -0.531844, 0.228624, -0.815398, -0.576282, 0.0105015, -0.817184, -0.387604, 0.42867, -0.816091, -0.635308, 0.623258, 0.455997, -0.649463, 0.620321, 0.439772, -0.398995, 0.413721, -0.818314, -0.191746, 0.548921, -0.813585, -0.343099, 0.82077, 0.45675, -0.358594, 0.825272, 0.436276, -0.206482, 0.533438, -0.820249, 0.0286897, 0.579205, -0.814677, -0.00831851, 0.891063, 0.453804, -0.0201331, 0.898903, 0.437685, 0.0105015, 0.576279, -0.817186, 0.243826, 0.521937, -0.817393, 0.327944, 0.828809, 0.453352, 0.319392, 0.838517, 0.44145, 0.228625, 0.531841, -0.8154, 0.42867, 0.387604, -0.816091, 0.623258, 0.635308, 0.455997, 0.620321, 0.649463, 0.439772, 0.413721, 0.398996, -0.818313, 0.548921, 0.191746, -0.813584, 0.82077, 0.343099, 0.45675, 0.825272, 0.358594, 0.436276, 0.533439, 0.206482, -0.820249, 0.579205, -0.0286897, -0.814677, 0.891063, 0.00831851, 0.453804, 0.898903, 0.0201331, 0.437685, 0.57628, -0.0105015, -0.817185, 0.521937, -0.243826, -0.817393, 0.828809, -0.327944, 0.453352, 0.838517, -0.319392, 0.44145, 0.531841, -0.228625, -0.815399, 0.387603, -0.428671, -0.816091, 0.635308, -0.623258, 0.455997, 0.649463, -0.620321, 0.439772, 0.398996, -0.413723, -0.818312, 0.191743, -0.548921, -0.813585, 0.343098, -0.820771, 0.456748, 0.358594, -0.825272, 0.436276, 0.206483, -0.533442, -0.820247, -0.0286897, -0.579205, -0.814677, 0.00831775, -0.891065, 0.4538, 0.0201331, -0.898903, 0.437685, -0.0105016, -0.576283, -0.817183, -0.243824, -0.521938, -0.817392, -0.327944, -0.828811, 0.453349, -0.319391, -0.838517, 0.44145, -0.228624, -0.531844, -0.815398, -0.42867, -0.387605, -0.816091, -0.623257, -0.635309, 0.455997, -0.620321, -0.649463, 0.439773, -0.413723, -0.398996, -0.818313, -0.548921, -0.191744, -0.813585, -0.820769, -0.3431, 0.45675, -0.825272, -0.358594, 0.436276, -0.533441, -0.206483, -0.820247, -0.197422, 0.0880553, -0.976356, -0.216153, 0.00675945, -0.976336, -0.157622, 0.0697002, -0.985037, -0.172808, 0.00486213, -0.984944, -0.284644, 0.124859, -0.950467, -0.312594, 0.00788283, -0.949854, -0.498917, 0.169084, -0.849995, -0.526394, -0.0319943, -0.849639, -0.147473, 0.157027, -0.976522, -0.118274, 0.125146, -0.985063, -0.214653, 0.225796, -0.950232, -0.393755, 0.348489, -0.850595, -0.0751071, 0.201841, -0.976534, -0.0607026, 0.161572, -0.984992, -0.111013, 0.29287, -0.949686, -0.228704, 0.473827, -0.850401, 0.00675947, 0.216154, -0.976336, 0.00486213, 0.172807, -0.984944, 0.00788234, 0.312593, -0.949854, -0.0319947, 0.5264, -0.849635, 0.0880558, 0.197422, -0.976356, 0.0696998, 0.157622, -0.985037, 0.124859, 0.284643, -0.950468, 0.169085, 0.49892, -0.849994, 0.157027, 0.147472, -0.976522, 0.125146, 0.118274, -0.985063, 0.225797, 0.214654, -0.950231, 0.348492, 0.393758, -0.850592, 0.20184, 0.0751073, -0.976534, 0.161572, 0.0607032, -0.984992, 0.292871, 0.111013, -0.949686, 0.473828, 0.228705, -0.8504, 0.216153, -0.00676004, -0.976336, 0.172807, -0.00486213, -0.984944, 0.312595, -0.00788203, -0.949854, 0.5264, 0.0319947, -0.849635, 0.197422, -0.0880559, -0.976356, 0.157621, -0.0697005, -0.985037, 0.284642, -0.124859, -0.950468, 0.49892, -0.169085, -0.849994, 0.147472, -0.157027, -0.976522, 0.118275, -0.125146, -0.985063, 0.214652, -0.225796, -0.950232, 0.393754, -0.348491, -0.850595, 0.0751059, -0.20184, -0.976534, 0.0607031, -0.161573, -0.984992, 0.111014, -0.292871, -0.949686, 0.228704, -0.473826, -0.850402, -0.00675946, -0.216153, -0.976336, -0.00486213, -0.172808, -0.984944, -0.00788283, -0.312594, -0.949854, 0.0319943, -0.526394, -0.849639, -0.0880555, -0.197422, -0.976356, -0.0697004, -0.157621, -0.985037, -0.124859, -0.284643, -0.950468, -0.169084, -0.498917, -0.849995, -0.157027, -0.147473, -0.976522, -0.125146, -0.118275, -0.985063, -0.225796, -0.214652, -0.950232, -0.348487, -0.393751, -0.850598, -0.20184, -0.075106, -0.976535, -0.161573, -0.0607032, -0.984992, -0.29287, -0.111014, -0.949686, -0.473824, -0.228703, -0.850403 ],
+                        "Size": 529
+                      }
+                    }, 
+                    "ItemSize": 3, 
+                    "Type": "ARRAY_BUFFER"
+                  }, 
+                  "Vertex": {
+                    "UniqueID": 3, 
+                    "Array": { 
+                      "Float32Array": { 
+                        "Elements": [ 37.0303, -14.2938, 30.4443, 37.5425, -14.5117, 28.3457, 40.6266, 1.10804, 28.3457, 40.0714, 1.10804, 30.4443, 37.6244, -14.5466, 31.1438, 40.7155, 1.10804, 31.1438, 38.8331, -15.0609, 30.4443, 42.0257, 1.10804, 30.4443, 40.1647, -15.6274, 28.3457, 43.4692, 1.10804, 28.3457, 28.6917, -26.7527, 30.4443, 29.0859, -27.1468, 28.3457, 29.149, -27.2099, 31.1438, 30.0792, -28.1402, 30.4443, 31.1041, -29.165, 28.3457, 16.2329, -35.0912, 30.4443, 16.4508, -35.6034, 28.3457, 16.4857, -35.6853, 31.1438, 16.9999, -36.894, 30.4443, 17.5665, -38.2256, 28.3457, 0.831025, -38.1324, 30.4443, 0.831025, -38.6876, 28.3457, 0.831025, -38.7764, 31.1438, 0.831025, -40.0866, 30.4443, 0.831025, -41.5301, 28.3457, -15.0262, -35.0912, 30.4443, -15.868, -35.6034, 28.3457, -14.9585, -35.6853, 31.1438, -15.3547, -36.894, 30.4443, -15.9044, -38.2256, 28.3457, -27.4344, -26.7527, 30.4443, -28.3832, -27.1468, 28.3457, -27.6068, -27.2099, 31.1438, -28.4322, -28.1402, 30.4443, -29.4421, -29.165, 28.3457, -35.52, -14.2938, 30.4443, -36.2402, -14.5117, 28.3457, -36.0073, -14.5466, 31.1438, -37.1767, -15.0609, 30.4443, -38.5027, -15.6274, 28.3457, -38.4094, 1.10804, 30.4443, -38.9646, 1.10804, 28.3457, -39.0534, 1.10804, 31.1438, -40.3636, 1.10804, 30.4443, -41.8071, 1.10804, 28.3457, -35.3683, 16.5099, 30.4443, -35.8804, 16.7278, 28.3457, -35.9624, 16.7627, 31.1438, -37.1711, 17.2769, 30.4443, -38.5027, 17.8435, 28.3457, -27.0297, 28.9687, 30.4443, -27.4238, 29.3629, 28.3457, -27.4869, 29.426, 31.1438, -28.4172, 30.3562, 30.4443, -29.4421, 31.3811, 28.3457, -14.5708, 37.3073, 30.4443, -14.7887, 37.8195, 28.3457, -14.8236, 37.9014, 31.1438, -15.3379, 39.1101, 30.4443, -15.9044, 40.4417, 28.3457, 0.831025, 40.3484, 30.4443, 0.831025, 40.9036, 28.3457, 0.831025, 40.9925, 31.1438, 0.831025, 42.3027, 30.4443, 0.831025, 43.7462, 28.3457, 16.2329, 37.3073, 30.4443, 16.4508, 37.8195, 28.3457, 16.4857, 37.9014, 31.1438, 16.9999, 39.1101, 30.4443, 17.5665, 40.4417, 28.3457, 28.6917, 28.9687, 30.4443, 29.0859, 29.3629, 28.3457, 29.149, 29.426, 31.1438, 30.0792, 30.3562, 30.4443, 31.1041, 31.3811, 28.3457, 37.0303, 16.5099, 30.4443, 37.5425, 16.7278, 28.3457, 37.6244, 16.7627, 31.1438, 38.8331, 17.2769, 30.4443, 40.1647, 17.8435, 28.3457, 44.979, -17.6758, 17.1865, 48.6879, 1.10804, 17.1865, 49.1787, -19.4626, 6.22714, 53.2404, 1.10804, 6.22714, 52.1492, -20.7265, -4.33246, 56.4605, 1.10804, -4.33246, 53.2759, -21.2059, -14.2925, 57.6819, 1.10804, -14.2925, 34.8094, -32.8703, 17.1865, 38.0417, -36.1026, 6.22714, 40.3279, -38.3889, -4.33246, 41.1951, -39.2561, -14.2925, 19.6148, -43.0399, 17.1865, 21.4017, -47.2396, 6.22714, 22.6656, -50.2101, -4.33246, 23.145, -51.3369, -14.2925, 0.831025, -46.7488, 17.1865, 0.831025, -51.3013, 6.22714, 0.831025, -54.5214, -4.33246, 0.831025, -55.7428, -14.2925, -17.9528, -43.0399, 17.1865, -19.7397, -47.2396, 6.22714, -21.0035, -50.2101, -4.33246, -21.4829, -51.3369, -14.2925, -33.1474, -32.8703, 17.1865, -36.3796, -36.1026, 6.22714, -38.6659, -38.3889, -4.33246, -39.5331, -39.2561, -14.2925, -43.3169, -17.6758, 17.1865, -47.5166, -19.4626, 6.22714, -50.4871, -20.7265, -4.33246, -51.6139, -21.2059, -14.2925, -47.0258, 1.10804, 17.1865, -51.5784, 1.10804, 6.22714, -54.7984, 1.10804, -4.33246, -56.0198, 1.10804, -14.2925, -43.3169, 19.8919, 17.1865, -47.5166, 21.6787, 6.22714, -50.4871, 22.9426, -4.33246, -51.6139, 23.422, -14.2925, -33.1474, 35.0864, 17.1865, -36.3796, 38.3187, 6.22714, -38.6659, 40.6049, -4.33246, -39.5331, 41.4721, -14.2925, -17.9528, 45.256, 17.1865, -19.7397, 49.4557, 6.22714, -21.0035, 52.4262, -4.33246, -21.4829, 53.5529, -14.2925, 0.831025, 48.9649, 17.1865, 0.831025, 53.5174, 6.22714, 0.831025, 56.7375, -4.33246, 0.831025, 57.9589, -14.2925, 19.6148, 45.256, 17.1865, 21.4017, 49.4557, 6.22714, 22.6656, 52.4262, -4.33246, 23.145, 53.5529, -14.2925, 34.8094, 35.0864, 17.1865, 38.0417, 38.3187, 6.22714, 40.3279, 40.6049, -4.33246, 41.1951, 41.4721, -14.2925, 44.979, 19.8919, 17.1865, 49.1787, 21.6787, 6.22714, 52.1492, 22.9426, -4.33246, 53.2759, 23.422, -14.2925, 51.2273, -20.3343, -22.7202, 55.4611, 1.10804, -22.7202, 46.7203, -18.4167, -28.9493, 50.5755, 1.10804, -28.9493, 42.2133, -16.4991, -33.1798, 45.6899, 1.10804, -33.1798, 40.1647, -15.6274, -35.6115, 43.4692, 1.10804, -35.6115, 39.6184, -37.6793, -22.7202, 36.1496, -34.2106, -28.9493, 32.6808, -30.7418, -33.1798, 31.1041, -29.165, -35.6115, 22.2733, -49.2882, -22.7202, 20.3557, -44.7813, -28.9493, 18.4381, -40.2743, -33.1798, 17.5665, -38.2256, -35.6115, 0.831025, -53.5221, -22.7202, 0.831025, -48.6365, -28.9493, 0.831025, -43.7508, -33.1798, 0.831025, -41.5301, -35.6115, -20.6113, -49.2882, -22.7202, -18.6937, -44.7813, -28.9493, -16.7761, -40.2743, -33.1798, -15.9044, -38.2256, -35.6115, -37.9564, -37.6793, -22.7202, -34.4876, -34.2106, -28.9493, -31.0188, -30.7418, -33.1798, -29.4421, -29.165, -35.6115, -49.5653, -20.3343, -22.7202, -45.0583, -18.4167, -28.9493, -40.5513, -16.4991, -33.1798, -38.5027, -15.6274, -35.6115, -53.7991, 1.10804, -22.7202, -48.9135, 1.10804, -28.9493, -44.0279, 1.10804, -33.1798, -41.8071, 1.10804, -35.6115, -49.5653, 22.5504, -22.7202, -45.0583, 20.6327, -28.9493, -40.5513, 18.7151, -33.1798, -38.5027, 17.8435, -35.6115, -37.9564, 39.8954, -22.7202, -34.4876, 36.4266, -28.9493, -31.0188, 32.9578, -33.1798, -29.4421, 31.3811, -35.6115, -20.6113, 51.5043, -22.7202, -18.6937, 46.9973, -28.9493, -16.7761, 42.4903, -33.1798, -15.9044, 40.4417, -35.6115, 0.831025, 55.7382, -22.7202, 0.831025, 50.8525, -28.9493, 0.831025, 45.9669, -33.1798, 0.831025, 43.7462, -35.6115, 22.2733, 51.5043, -22.7202, 20.3557, 46.9973, -28.9493, 18.4381, 42.4903, -33.1798, 17.5665, 40.4417, -35.6115, 39.6184, 39.8954, -22.7202, 36.1496, 36.4266, -28.9493, 32.6808, 32.9578, -33.1798, 31.1041, 31.3811, -35.6115, 51.2273, 22.5504, -22.7202, 46.7203, 20.6327, -28.9493, 42.2133, 18.7151, -33.1798, 40.1647, 17.8435, -35.6115, 39.2736, -15.2483, -37.1772, 42.5031, 1.10804, -37.1772, 34.5105, -13.2217, -38.5429, 37.3399, 1.10804, -38.5429, 22.7411, -8.21414, -39.5089, 24.5818, 1.10804, -39.5089, 0.831025, 1.10804, -39.8754, 30.4182, -28.4792, -37.1772, 26.7523, -24.8133, -38.5429, 17.6941, -15.755, -39.5089, 17.1873, -37.3345, -37.1772, 15.1608, -32.5714, -38.5429, 10.1532, -20.8021, -39.5089, 0.831025, -40.5641, -37.1772, 0.831025, -35.4009, -38.5429, 0.831025, -22.6427, -39.5089, -15.5253, -37.3345, -37.1772, -13.4987, -32.5714, -38.5429, -8.49115, -20.8021, -39.5089, -28.7562, -28.4792, -37.1772, -25.0903, -24.8133, -38.5429, -16.032, -15.755, -39.5089, -37.6115, -15.2483, -37.1772, -32.8484, -13.2217, -38.5429, -21.0791, -8.21414, -39.5089, -40.8411, 1.10804, -37.1772, -35.6779, 1.10804, -38.5429, -22.9198, 1.10804, -39.5089, -37.6115, 17.4643, -37.1772, -32.8484, 15.4378, -38.5429, -21.0791, 10.4302, -39.5089, -28.7562, 30.6952, -37.1772, -25.0903, 27.0294, -38.5429, -16.032, 17.9711, -39.5089, -15.5253, 39.5506, -37.1772, -13.4987, 34.7875, -38.5429, -8.49115, 23.0181, -39.5089, 0.831025, 42.7802, -37.1772, 0.831025, 37.6169, -38.5429, 0.831025, 24.8588, -39.5089, 17.1873, 39.5506, -37.1772, 15.1608, 34.7875, -38.5429, 10.1532, 23.0181, -39.5089, 30.4182, 30.6952, -37.1772, 26.7523, 27.0294, -38.5429, 17.6941, 17.9711, -39.5089, 39.2736, 17.4643, -37.1772, 34.5105, 15.4378, -38.5429, 22.7411, 10.4302, -39.5089, -58.3252, -3.68876, 18.5699, -44.2055, -3.68876, 18.6855, -44.6497, 1.10804, 17.6861, -57.9297, 1.10804, 17.5862, -68.6891, -3.68876, 17.7611, -67.7453, 1.10804, 16.8867, -75.0724, -3.68876, 15.5657, -73.8301, 1.10804, 14.9879, -77.2501, -3.68876, 11.2904, -75.9176, 1.10804, 11.2904, -59.1955, -5.28769, 20.7341, -43.2284, -5.28769, 20.884, -70.7655, -5.28769, 19.6848, -77.8053, -5.28769, 16.8367, -80.1814, -5.28769, 11.2904, -60.0657, -3.68876, 22.8983, -42.2513, -3.68876, 23.0825, -72.8419, -3.68876, 21.6085, -80.5381, -3.68876, 18.1077, -83.1128, -3.68876, 11.2904, -60.4613, 1.10804, 23.882, -41.8071, 1.10804, 24.0819, -73.7857, 1.10804, 22.4829, -81.7804, 1.10804, 18.6855, -84.4453, 1.10804, 11.2904, -60.0657, 5.90483, 22.8983, -42.2513, 5.90483, 23.0825, -72.8419, 5.90483, 21.6085, -80.5381, 5.90483, 18.1077, -83.1128, 5.90483, 11.2904, -59.1955, 7.50376, 20.7341, -43.2284, 7.50376, 20.884, -70.7655, 7.50376, 19.6848, -77.8053, 7.50376, 16.8367, -80.1814, 7.50376, 11.2904, -58.3252, 5.90483, 18.5699, -44.2055, 5.90483, 18.6855, -68.6891, 5.90483, 17.7611, -75.0724, 5.90483, 15.5657, -77.2501, 5.90483, 11.2904, -76.0183, -3.68876, 4.93477, -74.8073, 1.10804, 5.4943, -72.159, -3.68876, -2.35462, -71.2985, 1.10804, -1.50103, -65.4267, -3.68876, -9.55033, -65.1248, 1.10804, -8.49634, -55.5757, -3.68876, -15.6249, -78.6824, -5.28769, 3.70383, -74.0522, -5.28769, -4.23253, -66.0909, -5.28769, -11.8691, -54.5986, -5.28769, -18.5563, -81.3466, -3.68876, 2.47288, -75.9454, -3.68876, -6.11044, -66.755, -3.68876, -14.1878, -53.6214, -3.68876, -21.4877, -82.5576, 1.10804, 1.91336, -76.8059, 1.10804, -6.96404, -67.0569, 1.10804, -15.2418, -53.1773, 1.10804, -22.8201, -81.3466, 5.90483, 2.47288, -75.9454, 5.90483, -6.11044, -66.755, 5.90483, -14.1878, -53.6214, 5.90483, -21.4877, -78.6824, 7.50376, 3.70383, -74.0522, 7.50376, -4.23253, -66.0909, 7.50376, -11.8691, -54.5986, 7.50376, -18.5563, -76.0183, 5.90483, 4.93477, -72.159, 5.90483, -2.35462, -65.4267, 5.90483, -9.55033, -55.5757, 5.90483, -15.6249, 63.8305, -8.42059, 1.04519, 49.1543, -9.4449, -3.03333, 49.1543, 1.10804, 0.630882, 62.7896, 1.10804, 3.76212, 70.0292, -6.1671, 9.70814, 68.6967, 1.10804, 11.2904, 73.5629, -3.91361, 19.8451, 71.939, 1.10804, 20.4176, 80.2446, -2.88929, 28.3457, 77.5797, 1.10804, 28.3457, 66.1207, -11.5968, -4.93206, 49.1543, -12.9626, -11.0946, 72.9605, -8.59214, 6.22714, 77.1355, -5.58749, 18.5855, 86.1073, -4.22173, 28.3457, 68.4108, -8.42059, -10.9093, 49.1543, -9.4449, -19.1559, 75.8919, -6.1671, 2.74614, 80.7081, -3.91361, 17.326, 91.97, -2.88929, 28.3457, 69.4518, 1.10804, -13.6262, 49.1543, 1.10804, -22.8201, 77.2244, 1.10804, 1.16386, 82.3321, 1.10804, 16.7534, 94.6349, 1.10804, 28.3457, 68.4108, 10.6367, -10.9093, 49.1543, 11.661, -19.1559, 75.8919, 8.38317, 2.74614, 80.7081, 6.12968, 17.326, 91.97, 5.10536, 28.3457, 66.1207, 13.8129, -4.93206, 49.1543, 15.1786, -11.0946, 72.9605, 10.8082, 6.22714, 77.1355, 7.80356, 18.5855, 86.1073, 6.4378, 28.3457, 63.8305, 10.6367, 1.04519, 49.1543, 11.661, -3.03333, 70.0292, 8.38317, 9.70814, 73.5629, 6.12968, 19.8451, 80.2446, 5.10536, 28.3457, 82.4767, -2.63946, 29.6034, 79.6227, 1.10804, 29.5449, 83.8116, -2.08983, 30.0383, 81.1329, 1.10804, 29.9446, 83.8515, -1.54019, 29.6268, 81.577, 1.10804, 29.5449, 82.1988, -1.29036, 28.3457, 80.4222, 1.10804, 28.3457, 88.7555, -3.88862, 29.7322, 89.7049, -3.15578, 30.2444, 88.8555, -2.42294, 29.8072, 86.1073, -2.08983, 28.3457, 95.0343, -2.63946, 29.8611, 95.5982, -2.08983, 30.4505, 93.8594, -1.54019, 29.9875, 90.0158, -1.29036, 28.3457, 97.8883, 1.10804, 29.9196, 98.2769, 1.10804, 30.5442, 96.1339, 1.10804, 30.0695, 91.7924, 1.10804, 28.3457, 95.0343, 4.85553, 29.8611, 95.5982, 4.3059, 30.4505, 93.8594, 3.75626, 29.9875, 90.0158, 3.50643, 28.3457, 88.7555, 6.10469, 29.7322, 89.7049, 5.37185, 30.2444, 88.8555, 4.63901, 29.8072, 86.1073, 4.3059, 28.3457, 82.4767, 4.85553, 29.6034, 83.8116, 4.3059, 30.0383, 83.8515, 3.75626, 29.6268, 82.1988, 3.50643, 28.3457, 9.76642, -2.70243, 48.2657, 0.831025, 1.10804, 49.6647, 10.5134, 1.10804, 48.2657, 9.35632, -2.52698, 44.868, 10.0693, 1.10804, 44.868, 5.9947, -1.09187, 40.6708, 6.42728, 1.10804, 40.6708, 6.07552, -1.12336, 36.8733, 6.51611, 1.10804, 36.8733, 7.71453, -5.77547, 48.2657, 7.39819, -5.45913, 44.868, 4.80736, -2.8683, 40.6708, 4.86744, -2.92838, 36.8733, 4.64149, -7.82736, 48.2657, 4.46604, -7.41726, 44.868, 3.03093, -4.05564, 40.6708, 3.06242, -4.13646, 36.8733, 0.831025, -8.57438, 48.2657, 0.831025, -8.13023, 44.868, 0.831025, -4.48822, 40.6708, 0.831025, -4.57705, 36.8733, -2.97944, -7.82736, 48.2657, -2.80399, -7.41726, 44.868, -1.36888, -4.05564, 40.6708, -1.40037, -4.13646, 36.8733, -6.05248, -5.77547, 48.2657, -5.73614, -5.45913, 44.868, -3.14531, -2.8683, 40.6708, -3.20539, -2.92838, 36.8733, -8.10437, -2.70243, 48.2657, -7.69427, -2.52698, 44.868, -4.33265, -1.09187, 40.6708, -4.41347, -1.12336, 36.8733, -8.85139, 1.10804, 48.2657, -8.40724, 1.10804, 44.868, -4.76523, 1.10804, 40.6708, -4.85406, 1.10804, 36.8733, -8.10437, 4.9185, 48.2657, -7.69427, 4.74305, 44.868, -4.33265, 3.30794, 40.6708, -4.41347, 3.33943, 36.8733, -6.05248, 7.99154, 48.2657, -5.73614, 7.6752, 44.868, -3.14531, 5.08437, 40.6708, -3.20539, 5.14445, 36.8733, -2.97944, 10.0434, 48.2657, -2.80399, 9.63333, 44.868, -1.36888, 6.27171, 40.6708, -1.40037, 6.35253, 36.8733, 0.831025, 10.7904, 48.2657, 0.831025, 10.3463, 44.868, 0.831025, 6.70429, 40.6708, 0.831025, 6.79312, 36.8733, 4.64149, 10.0434, 48.2657, 4.46604, 9.63333, 44.868, 3.03093, 6.27171, 40.6708, 3.06242, 6.35253, 36.8733, 7.71453, 7.99154, 48.2657, 7.39819, 7.6752, 44.868, 4.80736, 5.08437, 40.6708, 4.86744, 5.14445, 36.8733, 9.76642, 4.9185, 48.2657, 9.35632, 4.74305, 44.868, 5.9947, 3.30794, 40.6708, 6.07552, 3.33943, 36.8733, 12.795, -3.98234, 34.3417, 13.8001, 1.10804, 34.3417, 22.4646, -8.09647, 32.6095, 24.282, 1.10804, 32.6095, 31.1507, -11.7922, 30.8773, 33.6979, 1.10804, 30.8773, 34.9202, -13.396, 28.3457, 37.7841, 1.10804, 28.3457, 10.0391, -8.10003, 34.3417, 17.4812, -15.5422, 32.6095, 24.1665, -22.2275, 30.8773, 27.0677, -25.1286, 28.3457, 5.9214, -10.856, 34.3417, 10.0355, -20.5255, 32.6095, 13.7313, -29.2117, 30.8773, 15.3351, -32.9812, 28.3457, 0.831025, -11.8611, 34.3417, 0.831025, -22.3429, 32.6095, 0.831025, -31.7589, 30.8773, 0.831025, -35.845, 28.3457, -4.25935, -10.856, 34.3417, -8.37348, -20.5255, 32.6095, -12.0692, -29.2117, 30.8773, -13.673, -32.9812, 28.3457, -8.37704, -8.10003, 34.3417, -15.8192, -15.5422, 32.6095, -22.5045, -22.2275, 30.8773, -25.4056, -25.1286, 28.3457, -11.133, -3.98234, 34.3417, -20.8025, -8.09647, 32.6095, -29.4887, -11.7922, 30.8773, -33.2582, -13.396, 28.3457, -12.1381, 1.10804, 34.3417, -22.62, 1.10804, 32.6095, -32.0359, 1.10804, 30.8773, -36.122, 1.10804, 28.3457, -11.133, 6.19841, 34.3417, -20.8025, 10.3125, 32.6095, -29.4887, 14.0083, 30.8773, -33.2582, 15.6121, 28.3457, -8.37704, 10.3161, 34.3417, -15.8192, 17.7582, 32.6095, -22.5045, 24.4435, 30.8773, -25.4056, 27.3447, 28.3457, -4.25935, 13.072, 34.3417, -8.37348, 22.7416, 32.6095, -12.0692, 31.4277, 30.8773, -13.673, 35.1972, 28.3457, 0.831025, 14.0771, 34.3417, 0.831025, 24.559, 32.6095, 0.831025, 33.9749, 30.8773, 0.831025, 38.0611, 28.3457, 5.9214, 13.072, 34.3417, 10.0355, 22.7416, 32.6095, 13.7313, 31.4277, 30.8773, 15.3351, 35.1972, 28.3457, 10.0391, 10.3161, 34.3417, 17.4812, 17.7582, 32.6095, 24.1665, 24.4435, 30.8773, 27.0677, 27.3447, 28.3457, 12.795, 6.19841, 34.3417, 22.4646, 10.3125, 32.6095, 31.1507, 14.0083, 30.8773, 34.9202, 15.6121, 28.3457 ],
+                        "Size": 529
+                      }
+                    }, 
+                    "ItemSize": 3, 
+                    "Type": "ARRAY_BUFFER"
+                  }
+                }
+              }
+            } ]
+          }
+        } ]
+      }
+    } ]
+  }
+}
